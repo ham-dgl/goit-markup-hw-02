@@ -1,0 +1,137 @@
+body {
+	font-family: Roboto, sans-serif;
+	color: #2E2F42;
+}
+a {
+	color: #2E2F42;
+	text-decoration: none;
+}
+#logo {
+	font-family: Raleway, sans-serif;
+	font-weight: 700;
+	font-size: 18px;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
+	line-height: 1.16667;
+}
+
+#logo span {
+	color: #4D5AE5;
+}
+.site-nav {
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+address a {
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	color: #434455;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+}
+address a:hover {
+	color: #404BBF;
+}
+
+.hero {
+	width: 1440px;
+	height: 600px;
+	background-color: #2E2F42;
+	text-align: center;
+
+}
+.hero h1 {
+	font-weight: 700;
+	font-size: 56px;
+	line-height: 1.07143;
+	letter-spacing: 0.02em;
+	color: #FFFFFF;
+}
+.hero button {
+	width: 169px;
+	height: 56px;
+	background-color: #4D5AE5;
+	border: none;
+	border-radius: 4px;
+	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+	color: #FFFFFF;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.04em;
+	cursor: pointer;
+}
+
+.hero button:hover {
+	background-color: #404BBF;
+}
+
+.features h3 {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.features p {
+	font-weight: 400;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.team {
+	background-color: #F4F4FD;
+	text-align: center;
+}
+.team h2 {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+
+}
+.team li {
+	background-color: #FFFFFF;
+	width: 264px;
+	height: 380px;
+	border-radius: 0 0 4px 4px;
+	box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+}
+.team h3 {
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 1.2;
+	letter-spacing: 0.02em;
+}
+.team p {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 1.5;
+	letter-spacing: 0.02em;
+	color: #434455;
+}
+
+.portfolio {
+	background-color: #FFFFFF;
+}
+
+.portfolio h2 {
+	font-weight: 700;
+	font-size: 36px;
+	line-height: 1.11111;
+	letter-spacing: 0.02em;
+	text-align: center;
+}
+.portfolio li {
+	width: 360px;
+	height: 420px;
+}
+
+li {
+	list-style: none;
+}
