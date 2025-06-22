@@ -1,6 +1,7 @@
 body {
 	font-family: Roboto, sans-serif;
-	color: #2E2F42;
+	color: #434455;
+	background-color: #FFFFFF;
 }
 a {
 	color: #2E2F42;
@@ -51,8 +52,6 @@ address a:hover {
 .hero button {
 	background-color: #4D5AE5;
 	border: none;
-	border-radius: 4px;
-	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
 	color: #FFFFFF;
 	font-weight: 500;
 	font-size: 16px;
@@ -93,8 +92,7 @@ address a:hover {
 }
 .team li {
 	background-color: #FFFFFF;
-	border-radius: 0 0 4px 4px;
-	box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+
 }
 .team h3 {
 	font-weight: 500;
