@@ -99,14 +99,16 @@ a {
 	background-color: #F4F4FD;
 	text-align: center;
 }
-.team h2 {
+.team-header {
 	font-weight: 700;
 	font-size: 36px;
-	line-height: 1.11111;
+	line-height: 1.11;
 	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: #2e2f42;
 
 }
-.team li {
+.team-list {
 	background-color: #FFFFFF;
 
 }
