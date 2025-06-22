@@ -32,7 +32,7 @@ a {
 .site-nav:focus {
 	color: #404bbf;
 }
-.address a {
+.address {
 	font-weight: 400;
 	font-size: 16px;
 	font-style: normal;
@@ -41,6 +41,9 @@ a {
 	letter-spacing: 0.02em;
 }
 .address a:hover {
+	color: #404BBF;
+}
+.address a:focus {
 	color: #404BBF;
 }
 
